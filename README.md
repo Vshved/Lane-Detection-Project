@@ -1,4 +1,4 @@
-# RobotDreamsComputer Vision FinalProject
+# Computer Vision Course FinalProject
 Aim of the project is to recognize lanes on a video.
 Video area is splitted on 5 horizontal stripes with mutual intersection in order to better adapt model for dashed marking line recognition.
 
